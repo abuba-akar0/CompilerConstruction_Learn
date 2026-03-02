@@ -1,4 +1,4 @@
-package Assignments.Assignment1.evenevenDFA;
+package Assignments.Assignment1;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
